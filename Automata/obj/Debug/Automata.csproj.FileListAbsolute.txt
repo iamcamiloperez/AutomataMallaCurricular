@@ -1,0 +1,16 @@
+C:\Users\VelozaPc\source\repos\Automata\Automata\obj\Debug\Automata.csprojResolveAssemblyReference.cache
+C:\Users\VelozaPc\source\repos\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\VelozaPc\source\repos\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.Cache
+C:\Users\VelozaPc\source\repos\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\VelozaPc\source\repos\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\VelozaPc\source\repos\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\VelozaPc\source\repos\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\VelozaPc\source\repos\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\VelozaPc\source\repos\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\VelozaPc\source\repos\Automata\Automata\obj\Debug\Automata.pdb
+E:\USUARIO ccperez\Desktop\Cris\Desarrollo\Proyectos base\c#\Automata\Automata\bin\Debug\Automata.exe.config
+E:\USUARIO ccperez\Desktop\Cris\Desarrollo\Proyectos base\c#\Automata\Automata\obj\Debug\Automata.exe
+E:\USUARIO ccperez\Desktop\Cris\Desarrollo\Proyectos base\c#\Automata\Automata\obj\Debug\Automata.pdb
+E:\USUARIO ccperez\Desktop\Cris\Desarrollo\Proyectos base\c#\Automata\Automata\obj\Debug\Automata.csprojResolveAssemblyReference.cache
+E:\USUARIO ccperez\Desktop\Cris\Desarrollo\Proyectos base\c#\Automata\Automata\obj\Debug\Automata.Form1.resources
+E:\USUARIO ccperez\Desktop\Cris\Desarrollo\Proyectos base\c#\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.Cache
